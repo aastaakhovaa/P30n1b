@@ -1,0 +1,11 @@
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\bin\Debug\Sort.exe.config
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\bin\Debug\Sort.exe
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\bin\Debug\Sort.pdb
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.Form1.resources
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.Input.resources
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.exe
+C:\Users\Анастасия\Desktop\External_SinglePhase_MultiWay_Sort-master\Sort\obj\Debug\Sort.pdb
